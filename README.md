@@ -55,7 +55,7 @@
 
 You can Replace `test.ber` with the name of your map file.
 
-**Enjoy !!
+** Enjoy !!
 
 ---
 
