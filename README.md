@@ -50,10 +50,10 @@
    ```
 3. Run the game:
    ```bash
-   ./so_long_bonus test.ber
+   ./so_long_bonus ./srcs/maps/test.ber
    ```
 
-You can Replace `test.ber` with the name of your map file.
+You can Replace `./srcs/maps/test.ber` with your ".ber" map file.
 
 **Enjoy !!**
 
